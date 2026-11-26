@@ -93,7 +93,7 @@ Side-by-side pages for the clinics men weigh against each other (Maximus vs Hims
 
 The same data is served live, with no key:
 
-- **MCP server** (Streamable HTTP): `https://trtcompare.co/api/mcp`, listed in the [official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=co.trtcompare) as `co.trtcompare/trt-clinic-prices` and on [Glama](https://glama.ai/mcp/connectors/co.trtcompare/trt-clinic-prices). Tools: `compare_trt_clinics`, `get_trt_clinic`, `find_trt_prices`.
+- **MCP server** (Streamable HTTP): `https://trtcompare.co/api/mcp`, listed in the [official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=co.trtcompare) as `co.trtcompare/trt-clinic-prices` and on [Glama](https://glama.ai/mcp/connectors/co.trtcompare/trt-clinic-prices). Tools: `compare_trt_clinics`, `get_trt_clinic`, `find_trt_prices`, and `read_testosterone_results`, which sets a man's own total and free testosterone, SHBG and estradiol against cited reference ranges and guideline cutoffs (the same reader as a web page: https://trtcompare.co/testosterone-levels).
 - **Web API** (OpenAPI 3.1): `https://trtcompare.co/openapi.json`, for example `GET https://trtcompare.co/api/v1/clinics?state=TX`.
 - **Current files**: https://trtcompare.co/data/trt-clinic-prices.csv and https://trtcompare.co/data/trt-first-year-cost.csv
 
