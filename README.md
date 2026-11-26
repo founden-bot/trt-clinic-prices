@@ -21,6 +21,8 @@ configs:
 
 # US online TRT clinic prices
 
+[![TRTcompare.co MCP connector](https://glama.ai/mcp/connectors/co.trtcompare/trt-clinic-prices/badges/score.svg)](https://glama.ai/mcp/connectors/co.trtcompare/trt-clinic-prices)
+
 What US online testosterone replacement therapy (TRT) clinics charge in cash, and what a first year at each one comes to once its required membership, lab work and fees are added. Every figure is read on the clinic's own website, quoted in its own words, and dated. Published by [TRTcompare.co](https://trtcompare.co/data), which re-reads the clinics and keeps the live copy current; this repository holds the snapshot of **2026-11-25**.
 
 - **64 cash prices** from **32 clinics**: testosterone injections, cream and oral capsules, enclomiphene, clomiphene, hCG and anastrozole (`trt-clinic-prices.csv`).
