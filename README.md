@@ -159,7 +159,7 @@ These are advertised prices, not quotes: the dose, the state and the plan a clin
 
 ## License and citation
 
-A fixed copy of this snapshot is archived on Zenodo: DOI [10.5281/zenodo.24547739](https://doi.org/10.5281/zenodo.24547739).
+A fixed copy of this snapshot is archived on Zenodo: DOI [10.5281/zenodo.24547739](https://doi.org/10.5281/zenodo.24547739). The same files are on Kaggle at [trtcompare/us-online-trt-clinic-prices](https://www.kaggle.com/datasets/trtcompare/us-online-trt-clinic-prices).
 
 
 CC BY 4.0: free to share and adapt, commercial use included, with credit to TRTcompare.co and a link to https://trtcompare.co/data.
