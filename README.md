@@ -159,6 +159,9 @@ These are advertised prices, not quotes: the dose, the state and the plan a clin
 
 ## License and citation
 
+A fixed copy of this snapshot is archived on Zenodo: DOI [10.5281/zenodo.24547739](https://doi.org/10.5281/zenodo.24547739).
+
+
 CC BY 4.0: free to share and adapt, commercial use included, with credit to TRTcompare.co and a link to https://trtcompare.co/data.
 
 > TRTcompare.co. US online TRT clinic prices (read by 2026-11-25). https://trtcompare.co/data. Licensed under CC BY 4.0.
