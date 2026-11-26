@@ -33,18 +33,59 @@ The middle clinic comes to $1,788 a year; the dearest is Hendrx Health at $4,740
 
 | # | Clinic | First year | Advertised price | Trustpilot |
 |---|---|---|---|---|
-| 1 | Hone Health | from $701 | from $28/mo + membership | 4.8 (12,562 reviews) |
-| 2 | Vyta | $1,308 | $109/mo | 4 (4 reviews) |
-| 3 | Yes Clinic | $1,320 | $110/mo | no rated profile |
-| 4 | TRT Nation | $1,329 | $99.99/mo, 2.5-month minimum | 2.2 (33 reviews) |
-| 5 | Atlas HRT | from $1,353 | from $92/mo | no rated profile |
-| 6 | Matrix Reformed | $1,440 | $120/mo | no rated profile |
-| 7 | TRT Kingdom | $1,486 | $99/mo | no rated profile |
-| 8 | DudeMeds | $1,499 | $345 per 84 days | 2.3 (11 reviews) |
-| 9 | Hims | from $1,536 | from $79/mo + Care+ | 2.9 (9,829 reviews) |
-| 10 | Fridays | from $1,548 | from $129/mo | 4.2 (5,495 reviews) |
+| 1 | [Hone Health](https://trtcompare.co/providers/hone-health) | from $701 | from $28/mo + membership | 4.8 (12,562 reviews) |
+| 2 | [Vyta](https://trtcompare.co/providers/vyta) | $1,308 | $109/mo | 4 (4 reviews) |
+| 3 | [Yes Clinic](https://trtcompare.co/providers/yes-clinic) | $1,320 | $110/mo | no rated profile |
+| 4 | [TRT Nation](https://trtcompare.co/providers/trt-nation) | $1,329 | $99.99/mo, 2.5-month minimum | 2.2 (33 reviews) |
+| 5 | [Atlas HRT](https://trtcompare.co/providers/atlas-hrt) | from $1,353 | from $92/mo | no rated profile |
+| 6 | [Matrix Reformed](https://trtcompare.co/providers/matrix-reformed) | $1,440 | $120/mo | no rated profile |
+| 7 | [TRT Kingdom](https://trtcompare.co/providers/trt-kingdom) | $1,486 | $99/mo | no rated profile |
+| 8 | [DudeMeds](https://trtcompare.co/providers/dudemeds) | $1,499 | $345 per 84 days | 2.3 (11 reviews) |
+| 9 | [Hims](https://trtcompare.co/providers/hims) | from $1,536 | from $79/mo + Care+ | 2.9 (9,829 reviews) |
+| 10 | [Fridays](https://trtcompare.co/providers/fridays) | from $1,548 | from $129/mo | 4.2 (5,495 reviews) |
 
 A first year is twelve months of the clinic's cheapest month-to-month testosterone (its shortest plan where it sells no monthly one), plus any membership the medicine cannot be had without, the first labs, the later panels its page prices within the year, and its fixed fees. Whatever a clinic's page leaves unpriced is named in `not_priced`, never guessed. Prepaid plans are given beside the total, not ranked.
+
+## Every clinic in the data
+
+Each clinic's page on TRTcompare.co sets its prices in context, with its public record and its terms:
+
+- **AlphaMD**: [prices and plans](https://trtcompare.co/providers/alphamd), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/alphamd/legit)
+- **ARSYNL Rx**: [prices and plans](https://trtcompare.co/providers/arsynl-rx), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/arsynl-rx/legit)
+- **Atlas HRT**: [prices and plans](https://trtcompare.co/providers/atlas-hrt), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/atlas-hrt/legit)
+- **Blokes**: [prices and plans](https://trtcompare.co/providers/blokes), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/blokes/legit)
+- **BrightMeds**: [prices and plans](https://trtcompare.co/providers/brightmeds), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/brightmeds/legit)
+- **Defy Medical**: [prices and plans](https://trtcompare.co/providers/defy-medical), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/defy-medical/legit)
+- **DudeMeds**: [prices and plans](https://trtcompare.co/providers/dudemeds), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/dudemeds/legit)
+- **FEEL30**: [prices and plans](https://trtcompare.co/providers/feel30), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/feel30/legit)
+- **Fountain TRT**: [prices and plans](https://trtcompare.co/providers/fountain-trt), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/fountain-trt/legit)
+- **Fridays**: [prices and plans](https://trtcompare.co/providers/fridays), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/fridays/legit)
+- **GobyMeds**: [prices and plans](https://trtcompare.co/providers/gobymeds), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/gobymeds/legit)
+- **Hendrx Health**: [prices and plans](https://trtcompare.co/providers/hendrx-health), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/hendrx-health/legit)
+- **Henry Meds**: [prices and plans](https://trtcompare.co/providers/henry-meds), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/henry-meds/legit)
+- **Heva Health**: [prices and plans](https://trtcompare.co/providers/heva-health), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/heva-health/legit)
+- **Hims**: [prices and plans](https://trtcompare.co/providers/hims), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/hims/legit)
+- **Hone Health**: [prices and plans](https://trtcompare.co/providers/hone-health), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/hone-health/legit)
+- **Male Excel**: [prices and plans](https://trtcompare.co/providers/male-excel), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/male-excel/legit)
+- **MangoRx**: [prices and plans](https://trtcompare.co/providers/mangorx), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/mangorx/legit)
+- **Marek Health**: [prices and plans](https://trtcompare.co/providers/marek-health), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/marek-health/legit)
+- **Matrix Reformed**: [prices and plans](https://trtcompare.co/providers/matrix-reformed), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/matrix-reformed/legit)
+- **Maximus**: [prices and plans](https://trtcompare.co/providers/maximus), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/maximus/legit)
+- **PeterMD**: [prices and plans](https://trtcompare.co/providers/petermd), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/petermd/legit)
+- **Precision Telemed**: [prices and plans](https://trtcompare.co/providers/precision-telemed), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/precision-telemed/legit)
+- **Rex MD**: [prices and plans](https://trtcompare.co/providers/rex-md), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/rex-md/legit)
+- **Strut Health**: [prices and plans](https://trtcompare.co/providers/strut-health), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/strut-health/legit)
+- **Taurus Meds**: [prices and plans](https://trtcompare.co/providers/taurus-meds), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/taurus-meds/legit)
+- **Tonik Wellness**: [prices and plans](https://trtcompare.co/providers/tonik-wellness), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/tonik-wellness/legit)
+- **TRT Kingdom**: [prices and plans](https://trtcompare.co/providers/trt-kingdom), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/trt-kingdom/legit)
+- **TRT Nation**: [prices and plans](https://trtcompare.co/providers/trt-nation), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/trt-nation/legit)
+- **TRTBOSS**: [prices and plans](https://trtcompare.co/providers/trtboss), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/trtboss/legit)
+- **Tuyo Health**: [prices and plans](https://trtcompare.co/providers/tuyo-health), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/tuyo-health/legit)
+- **Vyta**: [prices and plans](https://trtcompare.co/providers/vyta), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/vyta/legit)
+- **Ways2Well**: [prices and plans](https://trtcompare.co/providers/ways2well), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/ways2well/legit)
+- **Yes Clinic**: [prices and plans](https://trtcompare.co/providers/yes-clinic), [is it legit (Trustpilot, BBB, FDA)](https://trtcompare.co/providers/yes-clinic/legit)
+
+Side-by-side pages for the clinics men weigh against each other (Maximus vs Hims, PeterMD vs Maximus, Taurus Meds vs Hims and more) are at https://trtcompare.co/providers/compare, the best clinics by a stated rule at https://trtcompare.co/best/online-trt-clinics, and every first year at https://trtcompare.co/cheapest/online-trt-clinics.
 
 ## Live access for AI assistants and apps
 
