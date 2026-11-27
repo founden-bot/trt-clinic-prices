@@ -29,6 +29,10 @@ What US online testosterone replacement therapy (TRT) clinics charge in cash, an
 - **First-year cost at 28 clinics**, cheapest first, each total broken into medicine, membership, labs and fees, with the clinic's Trustpilot score, BBB grade and FDA warning letters (`trt-first-year-cost.csv`).
 - Both tables with the column dictionary and the license in one file (`trt-clinic-prices.json`).
 
+## Find the clinics that fit you
+
+The free [TRT clinic matcher](https://trtcompare.co/trt-clinic-matcher) applies one man's answers to this data: his state, what he wants treated (low testosterone, or keeping fertility with enclomiphene), how he would take it, what he can spend a month all in and his labs. It shows the clinics that fit, each with its first year a month, and says when his state's own law sets an in-person condition for testosterone by telehealth. Every state has it preset on its page, for example [Texas](https://trtcompare.co/prices/states/texas#clinic-matcher). AI assistants run the same match through the MCP tool `match_trt_clinic` (below).
+
 ## The cheapest first years
 
 The middle clinic comes to $1,788 a year; the dearest is Hendrx Health at $4,740.
